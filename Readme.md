@@ -29,6 +29,7 @@ This project provides an end-to-end data processing, exploratory analysis, and v
 ```text
 .
 ├── Crop_recommendation.csv               # Dataset
+├── Prashant_Rai_Crop_Recommendation_Analysis_Report.ipynb               # Jupyter Notebook file
 ├── requirements.txt                      # Project dependencies
-├── Crop_Recommendation_Analysis_Report.docx  # Output styled Word Document
+├── Prashant_Rai_Crop_Recommendation_Analysis_Report.docx  # Output styled Word Document
 └── README.md                             # Project Documentation
